@@ -1,0 +1,26 @@
+[
+  {
+    "id": "20260127-211432-1epx",
+    "title": "Chocolate Teapot, Guardian Kamoidra",
+    "commanders": [
+      "Chocolate Teapot",
+      "Guardian Kamoidra"
+    ],
+    "dateStart": "2026-01-28T03:14:32.000Z",
+    "dateEnd": "2026-01-28T03:54:39.000Z",
+    "dateLabel": "1/27/2026, 9:14:32 PM - 1/27/2026, 9:54:39 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260127-211432-1epx",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 13,
+          "color": "#a855f7"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 23
+    }
+  }
+]
