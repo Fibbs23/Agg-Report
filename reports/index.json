@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260130-200902-b9wy",
+    "title": "Fíbbs",
+    "commanders": [
+      "Fíbbs"
+    ],
+    "dateStart": "2026-01-31T02:09:02.000Z",
+    "dateEnd": "2026-01-31T03:37:41.000Z",
+    "dateLabel": "1/30/2026, 8:09:02 PM - 1/30/2026, 9:37:41 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260130-200902-b9wy",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 18,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 48,
+      "avgEnemySize": 45
+    }
+  },
+  {
     "id": "20260127-211432-9ix0",
     "title": "Chocolate Teapot, Guardian Kamoidra",
     "commanders": [
