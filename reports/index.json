@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260201-190246-zs2p",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-02-02T01:02:46.000Z",
+    "dateEnd": "2026-02-02T02:58:23.000Z",
+    "dateLabel": "2/1/2026, 7:02:46 PM - 2/1/2026, 8:58:23 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260201-190246-zs2p",
+    "summary": {
+      "borderlandsPct": 0.3888888888888889,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 11,
+          "color": "#ffffff"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 7,
+          "color": "#10b981"
+        }
+      ],
+      "avgSquadSize": 40,
+      "avgEnemySize": 35
+    }
+  },
+  {
     "id": "20260131-195119-7a15",
     "title": "Dub Grumble",
     "commanders": [
