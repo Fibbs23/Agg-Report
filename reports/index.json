@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260202-195918-j5ex",
+    "title": "Guardian Kamoidra",
+    "commanders": [
+      "Guardian Kamoidra"
+    ],
+    "dateStart": "2026-02-03T01:59:18.000Z",
+    "dateEnd": "2026-02-03T03:32:41.000Z",
+    "dateLabel": "2/2/2026, 7:59:18 PM - 2/2/2026, 9:32:41 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260202-195918-j5ex",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 26,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 37,
+      "avgEnemySize": 43
+    }
+  },
+  {
     "id": "20260202-200854-98d4",
     "title": "Guardian Kamoidra",
     "commanders": [
