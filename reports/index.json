@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260203-194401-cvag",
+    "title": "Lightspeed Jack",
+    "commanders": [
+      "Lightspeed Jack"
+    ],
+    "dateStart": "2026-02-04T01:44:01.000Z",
+    "dateEnd": "2026-02-04T02:35:00.000Z",
+    "dateLabel": "2/3/2026, 7:44:01 PM - 2/3/2026, 8:35:00 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-194401-cvag",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Alpine Borderlands",
+          "value": 7,
+          "color": "#22c55e"
+        },
+        {
+          "name": "World vs World - Green Alpine Borderlands",
+          "value": 2,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 47,
+      "avgEnemySize": 28
+    }
+  },
+  {
     "id": "20260202-195918-j5ex",
     "title": "Guardian Kamoidra",
     "commanders": [
