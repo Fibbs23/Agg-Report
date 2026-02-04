@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260203-224846-0jvg",
+    "title": "Rizem Withthe Tizim",
+    "commanders": [
+      "Rizem Withthe Tizim"
+    ],
+    "dateStart": "2026-02-04T04:48:46.826Z",
+    "dateEnd": "2026-02-04T04:48:46.826Z",
+    "dateLabel": "2/3/2026, 10:48:46 PM - 2/3/2026, 10:48:46 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-224846-0jvg",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 16,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 14,
+      "avgEnemySize": 14
+    }
+  },
+  {
     "id": "20260203-194401-cvag",
     "title": "Lightspeed Jack",
     "commanders": [
