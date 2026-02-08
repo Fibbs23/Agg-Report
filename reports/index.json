@@ -1,5 +1,33 @@
 [
   {
+    "id": "20260207-201543-czzv",
+    "title": "Dub Grumble",
+    "commanders": [
+      "Dub Grumble"
+    ],
+    "dateStart": "2026-02-08T02:15:43.000Z",
+    "dateEnd": "2026-02-08T04:08:42.000Z",
+    "dateLabel": "2/7/2026, 8:15:43 PM - 2/7/2026, 10:08:42 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-201543-czzv",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 17,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 13,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 32,
+      "avgEnemySize": 33
+    }
+  },
+  {
     "id": "20260206-201312-yd3k",
     "title": "Charrmander Harasho",
     "commanders": [
