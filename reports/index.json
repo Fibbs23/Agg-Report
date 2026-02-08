@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260207-213922-ys5s",
+    "title": "Dub Grumble",
+    "commanders": [
+      "Dub Grumble"
+    ],
+    "dateStart": "2026-02-08T03:39:22.000Z",
+    "dateEnd": "2026-02-08T04:08:42.000Z",
+    "dateLabel": "2/7/2026, 9:39:22 PM - 2/7/2026, 10:08:42 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-213922-ys5s",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 14,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 33,
+      "avgEnemySize": 24
+    }
+  },
+  {
     "id": "20260207-213922-1pe3",
     "title": "Dub Grumble",
     "commanders": [
