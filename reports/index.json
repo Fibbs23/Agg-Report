@@ -1,5 +1,29 @@
 [
   {
+    "id": "20260210-211407-ccco",
+    "title": "Psychic Visit, Sign My Troubies",
+    "commanders": [
+      "Psychic Visit",
+      "Sign My Troubies"
+    ],
+    "dateStart": "2026-02-11T03:14:07.000Z",
+    "dateEnd": "2026-02-11T04:01:57.000Z",
+    "dateLabel": "2/10/2026, 9:14:07 PM - 2/10/2026, 10:01:57 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260210-211407-ccco",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 11,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 12,
+      "avgEnemySize": 12
+    }
+  },
+  {
     "id": "20260210-190806-suk1",
     "title": "Lightspeed Jack",
     "commanders": [
