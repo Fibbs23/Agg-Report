@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260211-190358-tghr",
+    "title": "Tilted Illusion",
+    "commanders": [
+      "Tilted Illusion"
+    ],
+    "dateStart": "2026-02-12T01:03:58.000Z",
+    "dateEnd": "2026-02-12T02:59:40.000Z",
+    "dateLabel": "2/11/2026, 7:03:58 PM - 2/11/2026, 8:59:40 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260211-190358-tghr",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 24,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 39,
+      "avgEnemySize": 43
+    }
+  },
+  {
     "id": "20260210-211407-wvfw",
     "title": "Psychic Visit, Sign My Troubies",
     "commanders": [
