@@ -1,5 +1,38 @@
 [
   {
+    "id": "20260212-201423-mx5v",
+    "title": "Gear Check For Bads",
+    "commanders": [
+      "Gear Check For Bads"
+    ],
+    "dateStart": "2026-02-13T02:14:23.000Z",
+    "dateEnd": "2026-02-13T03:31:25.000Z",
+    "dateLabel": "2/12/2026, 8:14:23 PM - 2/12/2026, 9:31:25 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-201423-mx5v",
+    "summary": {
+      "borderlandsPct": 0.2777777777777778,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 13,
+          "color": "#64748b"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 4,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 1,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 24,
+      "avgEnemySize": 30
+    }
+  },
+  {
     "id": "20260211-190358-tghr",
     "title": "Tilted Illusion",
     "commanders": [
