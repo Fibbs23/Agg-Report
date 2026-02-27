@@ -1,5 +1,28 @@
 [
   {
+    "id": "20260226-210732-up9n",
+    "title": "Gear Check For Bads",
+    "commanders": [
+      "Gear Check For Bads"
+    ],
+    "dateStart": "2026-02-27T03:07:32.000Z",
+    "dateEnd": "2026-02-27T04:02:49.000Z",
+    "dateLabel": "2/26/2026, 9:07:32 PM - 2/26/2026, 10:02:49 PM",
+    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260226-210732-up9n",
+    "summary": {
+      "borderlandsPct": 0,
+      "mapSlices": [
+        {
+          "name": "Edge of the Mists",
+          "value": 18,
+          "color": "#64748b"
+        }
+      ],
+      "avgSquadSize": 25,
+      "avgEnemySize": 25
+    }
+  },
+  {
     "id": "20260226-200345-34qf",
     "title": "Gear Check For Bads",
     "commanders": [
