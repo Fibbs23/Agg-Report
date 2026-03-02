@@ -6,6 +6,35 @@
   },
   "entries": [
     {
+      "id": "20260301-221207-b7k5",
+      "title": "Lightspeed Jack, Tilted Illusion",
+      "commanders": [
+        "Lightspeed Jack",
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-03-02T04:12:07.000Z",
+      "dateEnd": "2026-03-02T06:17:15.000Z",
+      "dateLabel": "3/1/2026, 10:12:07 PM - 3/2/2026, 12:17:15 AM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260301-221207-b7k5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260301-184421-52m8",
       "title": "Lightspeed Jack",
       "commanders": [
