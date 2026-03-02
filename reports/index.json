@@ -1,1242 +1,1272 @@
-[
-  {
-    "id": "20260227-201124-h4k2",
-    "title": "Reven The Big Show",
-    "commanders": [
-      "Reven The Big Show"
-    ],
-    "dateStart": "2026-02-28T02:11:24.000Z",
-    "dateEnd": "2026-02-28T04:09:26.000Z",
-    "dateLabel": "2/27/2026, 8:11:24 PM - 2/27/2026, 10:09:26 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260227-201124-h4k2",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 16,
-          "color": "#22c55e"
-        }
-      ],
-      "avgSquadSize": 49,
-      "avgEnemySize": 49
-    }
+{
+  "siteTheme": {
+    "ui": "modern",
+    "paletteId": "Arcane",
+    "kineticFont": "default"
   },
-  {
-    "id": "20260227-201124-0nkm",
-    "title": "Reven The Big Show",
-    "commanders": [
-      "Reven The Big Show"
-    ],
-    "dateStart": "2026-02-28T02:11:24.000Z",
-    "dateEnd": "2026-02-28T04:09:26.000Z",
-    "dateLabel": "2/27/2026, 8:11:24 PM - 2/27/2026, 10:09:26 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260227-201124-0nkm",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 15,
-          "color": "#22c55e"
-        }
+  "entries": [
+    {
+      "id": "20260301-184421-52m8",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 49,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260225-190750-28hs",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-26T01:07:50.000Z",
-    "dateEnd": "2026-02-26T03:06:33.000Z",
-    "dateLabel": "2/25/2026, 7:07:50 PM - 2/25/2026, 9:06:33 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260225-190750-28hs",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 21,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-03-02T00:44:21.000Z",
+      "dateEnd": "2026-03-02T03:00:32.000Z",
+      "dateLabel": "3/1/2026, 6:44:21 PM - 3/1/2026, 9:00:32 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260301-184421-52m8",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 27,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260227-201124-h4k2",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260226-210732-lbc2",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-27T03:07:32.000Z",
-    "dateEnd": "2026-02-27T04:01:18.000Z",
-    "dateLabel": "2/26/2026, 9:07:32 PM - 2/26/2026, 10:01:18 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260226-210732-lbc2",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 17,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-28T02:11:24.000Z",
+      "dateEnd": "2026-02-28T04:09:26.000Z",
+      "dateLabel": "2/27/2026, 8:11:24 PM - 2/27/2026, 10:09:26 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260227-201124-h4k2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 49
+      }
+    },
+    {
+      "id": "20260227-201124-0nkm",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260226-210732-up9n",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-27T03:07:32.000Z",
-    "dateEnd": "2026-02-27T04:02:49.000Z",
-    "dateLabel": "2/26/2026, 9:07:32 PM - 2/26/2026, 10:02:49 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260226-210732-up9n",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 18,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-28T02:11:24.000Z",
+      "dateEnd": "2026-02-28T04:09:26.000Z",
+      "dateLabel": "2/27/2026, 8:11:24 PM - 2/27/2026, 10:09:26 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260227-201124-0nkm",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 15,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260225-190750-28hs",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 25
-    }
-  },
-  {
-    "id": "20260226-200345-34qf",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-27T02:03:45.000Z",
-    "dateEnd": "2026-02-27T02:49:19.000Z",
-    "dateLabel": "2/26/2026, 8:03:45 PM - 2/26/2026, 8:49:19 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260226-200345-34qf",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-26T01:07:50.000Z",
+      "dateEnd": "2026-02-26T03:06:33.000Z",
+      "dateLabel": "2/25/2026, 7:07:50 PM - 2/25/2026, 9:06:33 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260225-190750-28hs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260226-210732-lbc2",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 32
-    }
-  },
-  {
-    "id": "20260225-190750-90ub",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-26T01:07:50.000Z",
-    "dateEnd": "2026-02-26T03:06:33.000Z",
-    "dateLabel": "2/25/2026, 7:07:50 PM - 2/25/2026, 9:06:33 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260225-190750-90ub",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Red Borderlands",
-          "value": 21,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 4,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-27T03:07:32.000Z",
+      "dateEnd": "2026-02-27T04:01:18.000Z",
+      "dateLabel": "2/26/2026, 9:07:32 PM - 2/26/2026, 10:01:18 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260226-210732-lbc2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 17,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260226-210732-up9n",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260222-191312-n74f",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-23T01:13:12.000Z",
-    "dateEnd": "2026-02-23T02:48:18.000Z",
-    "dateLabel": "2/22/2026, 7:13:12 PM - 2/22/2026, 8:48:18 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260222-191312-n74f",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-27T03:07:32.000Z",
+      "dateEnd": "2026-02-27T04:02:49.000Z",
+      "dateLabel": "2/26/2026, 9:07:32 PM - 2/26/2026, 10:02:49 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260226-210732-up9n",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 18,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 25
+      }
+    },
+    {
+      "id": "20260226-200345-34qf",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 46,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260220-201659-p5xd",
-    "title": "Charrmander Harasho",
-    "commanders": [
-      "Charrmander Harasho"
-    ],
-    "dateStart": "2026-02-21T02:16:59.000Z",
-    "dateEnd": "2026-02-21T04:02:04.000Z",
-    "dateLabel": "2/20/2026, 8:16:59 PM - 2/20/2026, 10:02:04 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260220-201659-p5xd",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-27T02:03:45.000Z",
+      "dateEnd": "2026-02-27T02:49:19.000Z",
+      "dateLabel": "2/26/2026, 8:03:45 PM - 2/26/2026, 8:49:19 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260226-200345-34qf",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 32
+      }
+    },
+    {
+      "id": "20260225-190750-90ub",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 49,
-      "avgEnemySize": 52
-    }
-  },
-  {
-    "id": "20260218-190547-x72k",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-19T01:05:47.000Z",
-    "dateEnd": "2026-02-19T03:01:47.000Z",
-    "dateLabel": "2/18/2026, 7:05:47 PM - 2/18/2026, 9:01:47 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260218-190547-x72k",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-26T01:07:50.000Z",
+      "dateEnd": "2026-02-26T03:06:33.000Z",
+      "dateLabel": "2/25/2026, 7:07:50 PM - 2/25/2026, 9:06:33 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260225-190750-90ub",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 21,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 4,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260222-191312-n74f",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260218-190547-6s0a",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-19T01:05:47.000Z",
-    "dateEnd": "2026-02-19T03:01:47.000Z",
-    "dateLabel": "2/18/2026, 7:05:47 PM - 2/18/2026, 9:01:47 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260218-190547-6s0a",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-23T01:13:12.000Z",
+      "dateEnd": "2026-02-23T02:48:18.000Z",
+      "dateLabel": "2/22/2026, 7:13:12 PM - 2/22/2026, 8:48:18 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260222-191312-n74f",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260220-201659-p5xd",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260218-190547-zz2j",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-19T01:05:47.000Z",
-    "dateEnd": "2026-02-19T03:01:47.000Z",
-    "dateLabel": "2/18/2026, 7:05:47 PM - 2/18/2026, 9:01:47 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260218-190547-zz2j",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 16,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 11,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-21T02:16:59.000Z",
+      "dateEnd": "2026-02-21T04:02:04.000Z",
+      "dateLabel": "2/20/2026, 8:16:59 PM - 2/20/2026, 10:02:04 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260220-201659-p5xd",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 52
+      }
+    },
+    {
+      "id": "20260218-190547-x72k",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 35,
-      "avgEnemySize": 53
-    }
-  },
-  {
-    "id": "20260217-190018-ov77",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-18T01:00:18.000Z",
-    "dateEnd": "2026-02-18T02:28:03.000Z",
-    "dateLabel": "2/17/2026, 7:00:18 PM - 2/17/2026, 8:28:03 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-190018-ov77",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 21,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-19T01:05:47.000Z",
+      "dateEnd": "2026-02-19T03:01:47.000Z",
+      "dateLabel": "2/18/2026, 7:05:47 PM - 2/18/2026, 9:01:47 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260218-190547-x72k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260218-190547-6s0a",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 31,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260217-195037-3bj1",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-18T01:50:37.000Z",
-    "dateEnd": "2026-02-18T03:24:08.000Z",
-    "dateLabel": "2/17/2026, 7:50:37 PM - 2/17/2026, 9:24:08 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-195037-3bj1",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 32,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-19T01:05:47.000Z",
+      "dateEnd": "2026-02-19T03:01:47.000Z",
+      "dateLabel": "2/18/2026, 7:05:47 PM - 2/18/2026, 9:01:47 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260218-190547-6s0a",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260218-190547-zz2j",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260217-200718-d2hh",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-18T02:07:18.000Z",
-    "dateEnd": "2026-02-18T03:24:08.000Z",
-    "dateLabel": "2/17/2026, 8:07:18 PM - 2/17/2026, 9:24:08 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-200718-d2hh",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 28,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-19T01:05:47.000Z",
+      "dateEnd": "2026-02-19T03:01:47.000Z",
+      "dateLabel": "2/18/2026, 7:05:47 PM - 2/18/2026, 9:01:47 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260218-190547-zz2j",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 53
+      }
+    },
+    {
+      "id": "20260217-190018-ov77",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260217-200718-27pa",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-18T02:07:18.000Z",
-    "dateEnd": "2026-02-18T03:24:08.000Z",
-    "dateLabel": "2/17/2026, 8:07:18 PM - 2/17/2026, 9:24:08 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-200718-27pa",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 28,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-18T01:00:18.000Z",
+      "dateEnd": "2026-02-18T02:28:03.000Z",
+      "dateLabel": "2/17/2026, 7:00:18 PM - 2/17/2026, 8:28:03 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-190018-ov77",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260217-195037-3bj1",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 25,
-      "avgEnemySize": 31
-    }
-  },
-  {
-    "id": "20260216-195855-d5yo",
-    "title": "Not Haro",
-    "commanders": [
-      "Not Haro"
-    ],
-    "dateStart": "2026-02-17T01:58:55.000Z",
-    "dateEnd": "2026-02-17T03:35:09.000Z",
-    "dateLabel": "2/16/2026, 7:58:55 PM - 2/16/2026, 9:35:09 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260216-195855-d5yo",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 22,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-18T01:50:37.000Z",
+      "dateEnd": "2026-02-18T03:24:08.000Z",
+      "dateLabel": "2/17/2026, 7:50:37 PM - 2/17/2026, 9:24:08 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-195037-3bj1",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 32,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260217-200718-d2hh",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 41,
-      "avgEnemySize": 40
-    }
-  },
-  {
-    "id": "20260215-190856-fcb6",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-16T01:08:56.000Z",
-    "dateEnd": "2026-02-16T03:01:53.000Z",
-    "dateLabel": "2/15/2026, 7:08:56 PM - 2/15/2026, 9:01:53 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-190856-fcb6",
-    "summary": {
-      "borderlandsPct": 0.6190476190476191,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 13,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 8,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-18T02:07:18.000Z",
+      "dateEnd": "2026-02-18T03:24:08.000Z",
+      "dateLabel": "2/17/2026, 8:07:18 PM - 2/17/2026, 9:24:08 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-200718-d2hh",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260217-200718-27pa",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260215-190856-uajx",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-16T01:08:56.000Z",
-    "dateEnd": "2026-02-16T03:01:53.000Z",
-    "dateLabel": "2/15/2026, 7:08:56 PM - 2/15/2026, 9:01:53 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-190856-uajx",
-    "summary": {
-      "borderlandsPct": 0.6190476190476191,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 13,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 8,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-18T02:07:18.000Z",
+      "dateEnd": "2026-02-18T03:24:08.000Z",
+      "dateLabel": "2/17/2026, 8:07:18 PM - 2/17/2026, 9:24:08 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260217-200718-27pa",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 28,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 31
+      }
+    },
+    {
+      "id": "20260216-195855-d5yo",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260215-194955-bj0e",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-16T01:49:55.000Z",
-    "dateEnd": "2026-02-16T03:59:09.000Z",
-    "dateLabel": "2/15/2026, 7:49:55 PM - 2/15/2026, 9:59:09 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-194955-bj0e",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 17,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-17T01:58:55.000Z",
+      "dateEnd": "2026-02-17T03:35:09.000Z",
+      "dateLabel": "2/16/2026, 7:58:55 PM - 2/16/2026, 9:35:09 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260216-195855-d5yo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 22,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 41,
+        "avgEnemySize": 40
+      }
+    },
+    {
+      "id": "20260215-190856-fcb6",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260215-190856-0rgo",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-16T01:08:56.000Z",
-    "dateEnd": "2026-02-16T03:01:53.000Z",
-    "dateLabel": "2/15/2026, 7:08:56 PM - 2/15/2026, 9:01:53 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-190856-0rgo",
-    "summary": {
-      "borderlandsPct": 0.6190476190476191,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 13,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 8,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-16T01:08:56.000Z",
+      "dateEnd": "2026-02-16T03:01:53.000Z",
+      "dateLabel": "2/15/2026, 7:08:56 PM - 2/15/2026, 9:01:53 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-190856-fcb6",
+      "summary": {
+        "borderlandsPct": 0.6190476190476191,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260215-190856-uajx",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 28,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260215-194242-9pu9",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-16T01:42:42.000Z",
-    "dateEnd": "2026-02-16T03:59:09.000Z",
-    "dateLabel": "2/15/2026, 7:42:42 PM - 2/15/2026, 9:59:09 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-194242-9pu9",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 20,
-          "color": "#3b82f6"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-16T01:08:56.000Z",
+      "dateEnd": "2026-02-16T03:01:53.000Z",
+      "dateLabel": "2/15/2026, 7:08:56 PM - 2/15/2026, 9:01:53 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-190856-uajx",
+      "summary": {
+        "borderlandsPct": 0.6190476190476191,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260215-194955-bj0e",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 22,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260215-195910-9cei",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-16T01:59:10.000Z",
-    "dateEnd": "2026-02-16T03:59:09.000Z",
-    "dateLabel": "2/15/2026, 7:59:10 PM - 2/15/2026, 9:59:09 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-195910-9cei",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Blue Borderlands",
-          "value": 14,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-16T01:49:55.000Z",
+      "dateEnd": "2026-02-16T03:59:09.000Z",
+      "dateLabel": "2/15/2026, 7:49:55 PM - 2/15/2026, 9:59:09 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-194955-bj0e",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260215-190856-0rgo",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 23,
-      "avgEnemySize": 44
-    }
-  },
-  {
-    "id": "20260212-203620-02u8",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-13T02:36:20.000Z",
-    "dateEnd": "2026-02-13T03:14:15.000Z",
-    "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-02u8",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-16T01:08:56.000Z",
+      "dateEnd": "2026-02-16T03:01:53.000Z",
+      "dateLabel": "2/15/2026, 7:08:56 PM - 2/15/2026, 9:01:53 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-190856-0rgo",
+      "summary": {
+        "borderlandsPct": 0.6190476190476191,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 8,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260215-194242-9pu9",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260212-203620-f54m",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-13T02:36:20.000Z",
-    "dateEnd": "2026-02-13T03:14:15.000Z",
-    "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-f54m",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-16T01:42:42.000Z",
+      "dateEnd": "2026-02-16T03:59:09.000Z",
+      "dateLabel": "2/15/2026, 7:42:42 PM - 2/15/2026, 9:59:09 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-194242-9pu9",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 20,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 22,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260215-195910-9cei",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260212-203620-icji",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-13T02:36:20.000Z",
-    "dateEnd": "2026-02-13T03:14:15.000Z",
-    "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-icji",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-16T01:59:10.000Z",
+      "dateEnd": "2026-02-16T03:59:09.000Z",
+      "dateLabel": "2/15/2026, 7:59:10 PM - 2/15/2026, 9:59:09 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260215-195910-9cei",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 44
+      }
+    },
+    {
+      "id": "20260212-203620-02u8",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260212-203620-xu80",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-13T02:36:20.000Z",
-    "dateEnd": "2026-02-13T03:14:15.000Z",
-    "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-xu80",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-13T02:36:20.000Z",
+      "dateEnd": "2026-02-13T03:14:15.000Z",
+      "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-02u8",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260212-203620-f54m",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260212-203620-u74b",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-13T02:36:20.000Z",
-    "dateEnd": "2026-02-13T03:14:15.000Z",
-    "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-u74b",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-13T02:36:20.000Z",
+      "dateEnd": "2026-02-13T03:14:15.000Z",
+      "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-f54m",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260212-203620-icji",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260212-201423-mx5v",
-    "title": "Gear Check For Bads",
-    "commanders": [
-      "Gear Check For Bads"
-    ],
-    "dateStart": "2026-02-13T02:14:23.000Z",
-    "dateEnd": "2026-02-13T03:31:25.000Z",
-    "dateLabel": "2/12/2026, 8:14:23 PM - 2/12/2026, 9:31:25 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-201423-mx5v",
-    "summary": {
-      "borderlandsPct": 0.2777777777777778,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#64748b"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 4,
-          "color": "#ef4444"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 1,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-13T02:36:20.000Z",
+      "dateEnd": "2026-02-13T03:14:15.000Z",
+      "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-icji",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260212-203620-xu80",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 24,
-      "avgEnemySize": 30
-    }
-  },
-  {
-    "id": "20260211-190358-tghr",
-    "title": "Tilted Illusion",
-    "commanders": [
-      "Tilted Illusion"
-    ],
-    "dateStart": "2026-02-12T01:03:58.000Z",
-    "dateEnd": "2026-02-12T02:59:40.000Z",
-    "dateLabel": "2/11/2026, 7:03:58 PM - 2/11/2026, 8:59:40 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260211-190358-tghr",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 24,
-          "color": "#ffffff"
-        }
+      "dateStart": "2026-02-13T02:36:20.000Z",
+      "dateEnd": "2026-02-13T03:14:15.000Z",
+      "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-xu80",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260212-203620-u74b",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 39,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260210-211407-wvfw",
-    "title": "Psychic Visit, Sign My Troubies",
-    "commanders": [
-      "Psychic Visit",
-      "Sign My Troubies"
-    ],
-    "dateStart": "2026-02-11T03:14:07.000Z",
-    "dateEnd": "2026-02-11T04:01:57.000Z",
-    "dateLabel": "2/10/2026, 9:14:07 PM - 2/10/2026, 10:01:57 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260210-211407-wvfw",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 9,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-13T02:36:20.000Z",
+      "dateEnd": "2026-02-13T03:14:15.000Z",
+      "dateLabel": "2/12/2026, 8:36:20 PM - 2/12/2026, 9:14:15 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-203620-u74b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260212-201423-mx5v",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
       ],
-      "avgSquadSize": 14,
-      "avgEnemySize": 14
-    }
-  },
-  {
-    "id": "20260210-211407-ccco",
-    "title": "Psychic Visit, Sign My Troubies",
-    "commanders": [
-      "Psychic Visit",
-      "Sign My Troubies"
-    ],
-    "dateStart": "2026-02-11T03:14:07.000Z",
-    "dateEnd": "2026-02-11T04:01:57.000Z",
-    "dateLabel": "2/10/2026, 9:14:07 PM - 2/10/2026, 10:01:57 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260210-211407-ccco",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 11,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-13T02:14:23.000Z",
+      "dateEnd": "2026-02-13T03:31:25.000Z",
+      "dateLabel": "2/12/2026, 8:14:23 PM - 2/12/2026, 9:31:25 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260212-201423-mx5v",
+      "summary": {
+        "borderlandsPct": 0.2777777777777778,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#64748b"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 4,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 30
+      }
+    },
+    {
+      "id": "20260211-190358-tghr",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
       ],
-      "avgSquadSize": 12,
-      "avgEnemySize": 12
-    }
-  },
-  {
-    "id": "20260210-190806-suk1",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-11T01:08:06.000Z",
-    "dateEnd": "2026-02-11T02:23:59.000Z",
-    "dateLabel": "2/10/2026, 7:08:06 PM - 2/10/2026, 8:23:59 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260210-190806-suk1",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 16,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-12T01:03:58.000Z",
+      "dateEnd": "2026-02-12T02:59:40.000Z",
+      "dateLabel": "2/11/2026, 7:03:58 PM - 2/11/2026, 8:59:40 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260211-190358-tghr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 24,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260210-211407-wvfw",
+      "title": "Psychic Visit, Sign My Troubies",
+      "commanders": [
+        "Psychic Visit",
+        "Sign My Troubies"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 17
-    }
-  },
-  {
-    "id": "20260207-213922-ys5s",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-08T03:39:22.000Z",
-    "dateEnd": "2026-02-08T04:08:42.000Z",
-    "dateLabel": "2/7/2026, 9:39:22 PM - 2/7/2026, 10:08:42 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-213922-ys5s",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-11T03:14:07.000Z",
+      "dateEnd": "2026-02-11T04:01:57.000Z",
+      "dateLabel": "2/10/2026, 9:14:07 PM - 2/10/2026, 10:01:57 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260210-211407-wvfw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 9,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
+      "id": "20260210-211407-ccco",
+      "title": "Psychic Visit, Sign My Troubies",
+      "commanders": [
+        "Psychic Visit",
+        "Sign My Troubies"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 24
-    }
-  },
-  {
-    "id": "20260207-213922-1pe3",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-08T03:39:22.000Z",
-    "dateEnd": "2026-02-08T04:08:42.000Z",
-    "dateLabel": "2/7/2026, 9:39:22 PM - 2/7/2026, 10:08:42 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-213922-1pe3",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 14,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-11T03:14:07.000Z",
+      "dateEnd": "2026-02-11T04:01:57.000Z",
+      "dateLabel": "2/10/2026, 9:14:07 PM - 2/10/2026, 10:01:57 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260210-211407-ccco",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 11,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 12
+      }
+    },
+    {
+      "id": "20260210-190806-suk1",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 33,
-      "avgEnemySize": 24
-    }
-  },
-  {
-    "id": "20260207-201543-czzv",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-08T02:15:43.000Z",
-    "dateEnd": "2026-02-08T04:08:42.000Z",
-    "dateLabel": "2/7/2026, 8:15:43 PM - 2/7/2026, 10:08:42 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-201543-czzv",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 17,
-          "color": "#22c55e"
-        },
-        {
-          "name": "Red Borderlands",
-          "value": 13,
-          "color": "#ef4444"
-        }
+      "dateStart": "2026-02-11T01:08:06.000Z",
+      "dateEnd": "2026-02-11T02:23:59.000Z",
+      "dateLabel": "2/10/2026, 7:08:06 PM - 2/10/2026, 8:23:59 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260210-190806-suk1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 17
+      }
+    },
+    {
+      "id": "20260207-213922-ys5s",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 32,
-      "avgEnemySize": 33
-    }
-  },
-  {
-    "id": "20260206-201312-yd3k",
-    "title": "Charrmander Harasho",
-    "commanders": [
-      "Charrmander Harasho"
-    ],
-    "dateStart": "2026-02-07T02:13:12.000Z",
-    "dateEnd": "2026-02-07T03:50:57.000Z",
-    "dateLabel": "2/6/2026, 8:13:12 PM - 2/6/2026, 9:50:57 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260206-201312-yd3k",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 19,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-08T03:39:22.000Z",
+      "dateEnd": "2026-02-08T04:08:42.000Z",
+      "dateLabel": "2/7/2026, 9:39:22 PM - 2/7/2026, 10:08:42 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-213922-ys5s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 24
+      }
+    },
+    {
+      "id": "20260207-213922-1pe3",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 45,
-      "avgEnemySize": 55
-    }
-  },
-  {
-    "id": "20260204-190642-mn99",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-05T01:06:42.000Z",
-    "dateEnd": "2026-02-05T02:55:59.000Z",
-    "dateLabel": "2/4/2026, 7:06:42 PM - 2/4/2026, 8:55:59 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260204-190642-mn99",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 36,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-08T03:39:22.000Z",
+      "dateEnd": "2026-02-08T04:08:42.000Z",
+      "dateLabel": "2/7/2026, 9:39:22 PM - 2/7/2026, 10:08:42 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-213922-1pe3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 33,
+        "avgEnemySize": 24
+      }
+    },
+    {
+      "id": "20260207-201543-czzv",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 43,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260204-190642-apoa",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-02-05T01:06:42.000Z",
-    "dateEnd": "2026-02-05T02:51:37.000Z",
-    "dateLabel": "2/4/2026, 7:06:42 PM - 2/4/2026, 8:51:37 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260204-190642-apoa",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 35,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-08T02:15:43.000Z",
+      "dateEnd": "2026-02-08T04:08:42.000Z",
+      "dateLabel": "2/7/2026, 8:15:43 PM - 2/7/2026, 10:08:42 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260207-201543-czzv",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 13,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 33
+      }
+    },
+    {
+      "id": "20260206-201312-yd3k",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
       ],
-      "avgSquadSize": 43,
-      "avgEnemySize": 38
-    }
-  },
-  {
-    "id": "20260203-194401-n1hp",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-04T01:44:01.000Z",
-    "dateEnd": "2026-02-04T02:35:00.000Z",
-    "dateLabel": "2/3/2026, 7:44:01 PM - 2/3/2026, 8:35:00 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-194401-n1hp",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 9,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-07T02:13:12.000Z",
+      "dateEnd": "2026-02-07T03:50:57.000Z",
+      "dateLabel": "2/6/2026, 8:13:12 PM - 2/6/2026, 9:50:57 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260206-201312-yd3k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 45,
+        "avgEnemySize": 55
+      }
+    },
+    {
+      "id": "20260204-190642-mn99",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 47,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260203-224846-0jvg",
-    "title": "Rizem Withthe Tizim",
-    "commanders": [
-      "Rizem Withthe Tizim"
-    ],
-    "dateStart": "2026-02-04T04:48:46.826Z",
-    "dateEnd": "2026-02-04T04:48:46.826Z",
-    "dateLabel": "2/3/2026, 10:48:46 PM - 2/3/2026, 10:48:46 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-224846-0jvg",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 16,
-          "color": "#64748b"
-        }
+      "dateStart": "2026-02-05T01:06:42.000Z",
+      "dateEnd": "2026-02-05T02:55:59.000Z",
+      "dateLabel": "2/4/2026, 7:06:42 PM - 2/4/2026, 8:55:59 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260204-190642-mn99",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 36,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260204-190642-apoa",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 14,
-      "avgEnemySize": 14
-    }
-  },
-  {
-    "id": "20260203-194401-cvag",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-04T01:44:01.000Z",
-    "dateEnd": "2026-02-04T02:35:00.000Z",
-    "dateLabel": "2/3/2026, 7:44:01 PM - 2/3/2026, 8:35:00 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-194401-cvag",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Alpine Borderlands",
-          "value": 7,
-          "color": "#22c55e"
-        },
-        {
-          "name": "World vs World - Green Alpine Borderlands",
-          "value": 2,
-          "color": "#22c55e"
-        }
+      "dateStart": "2026-02-05T01:06:42.000Z",
+      "dateEnd": "2026-02-05T02:51:37.000Z",
+      "dateLabel": "2/4/2026, 7:06:42 PM - 2/4/2026, 8:51:37 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260204-190642-apoa",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 35,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 43,
+        "avgEnemySize": 38
+      }
+    },
+    {
+      "id": "20260203-194401-n1hp",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 47,
-      "avgEnemySize": 28
-    }
-  },
-  {
-    "id": "20260202-195918-j5ex",
-    "title": "Guardian Kamoidra",
-    "commanders": [
-      "Guardian Kamoidra"
-    ],
-    "dateStart": "2026-02-03T01:59:18.000Z",
-    "dateEnd": "2026-02-03T03:32:41.000Z",
-    "dateLabel": "2/2/2026, 7:59:18 PM - 2/2/2026, 9:32:41 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260202-195918-j5ex",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 26,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-04T01:44:01.000Z",
+      "dateEnd": "2026-02-04T02:35:00.000Z",
+      "dateLabel": "2/3/2026, 7:44:01 PM - 2/3/2026, 8:35:00 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-194401-n1hp",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260203-224846-0jvg",
+      "title": "Rizem Withthe Tizim",
+      "commanders": [
+        "Rizem Withthe Tizim"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260202-200854-98d4",
-    "title": "Guardian Kamoidra",
-    "commanders": [
-      "Guardian Kamoidra"
-    ],
-    "dateStart": "2026-02-03T02:08:54.000Z",
-    "dateEnd": "2026-02-03T03:32:41.000Z",
-    "dateLabel": "2/2/2026, 8:08:54 PM - 2/2/2026, 9:32:41 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260202-200854-98d4",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 25,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-04T04:48:46.826Z",
+      "dateEnd": "2026-02-04T04:48:46.826Z",
+      "dateLabel": "2/3/2026, 10:48:46 PM - 2/3/2026, 10:48:46 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-224846-0jvg",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 16,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 14,
+        "avgEnemySize": 14
+      }
+    },
+    {
+      "id": "20260203-194401-cvag",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 37,
-      "avgEnemySize": 43
-    }
-  },
-  {
-    "id": "20260201-190246-zs2p",
-    "title": "Lightspeed Jack",
-    "commanders": [
-      "Lightspeed Jack"
-    ],
-    "dateStart": "2026-02-02T01:02:46.000Z",
-    "dateEnd": "2026-02-02T02:58:23.000Z",
-    "dateLabel": "2/1/2026, 7:02:46 PM - 2/1/2026, 8:58:23 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260201-190246-zs2p",
-    "summary": {
-      "borderlandsPct": 0.3888888888888889,
-      "mapSlices": [
-        {
-          "name": "Eternal Battlegrounds",
-          "value": 11,
-          "color": "#ffffff"
-        },
-        {
-          "name": "Green Borderlands",
-          "value": 7,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-04T01:44:01.000Z",
+      "dateEnd": "2026-02-04T02:35:00.000Z",
+      "dateLabel": "2/3/2026, 7:44:01 PM - 2/3/2026, 8:35:00 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260203-194401-cvag",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Alpine Borderlands",
+            "value": 7,
+            "color": "#22c55e"
+          },
+          {
+            "name": "World vs World - Green Alpine Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 28
+      }
+    },
+    {
+      "id": "20260202-195918-j5ex",
+      "title": "Guardian Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra"
       ],
-      "avgSquadSize": 40,
-      "avgEnemySize": 35
-    }
-  },
-  {
-    "id": "20260131-195119-7a15",
-    "title": "Dub Grumble",
-    "commanders": [
-      "Dub Grumble"
-    ],
-    "dateStart": "2026-02-01T01:51:19.000Z",
-    "dateEnd": "2026-02-01T04:01:35.000Z",
-    "dateLabel": "1/31/2026, 7:51:19 PM - 1/31/2026, 10:01:35 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260131-195119-7a15",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Green Borderlands",
-          "value": 32,
-          "color": "#10b981"
-        }
+      "dateStart": "2026-02-03T01:59:18.000Z",
+      "dateEnd": "2026-02-03T03:32:41.000Z",
+      "dateLabel": "2/2/2026, 7:59:18 PM - 2/2/2026, 9:32:41 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260202-195918-j5ex",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 26,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260202-200854-98d4",
+      "title": "Guardian Kamoidra",
+      "commanders": [
+        "Guardian Kamoidra"
       ],
-      "avgSquadSize": 38,
-      "avgEnemySize": 46
-    }
-  },
-  {
-    "id": "20260130-200902-b9wy",
-    "title": "Fíbbs",
-    "commanders": [
-      "Fíbbs"
-    ],
-    "dateStart": "2026-01-31T02:09:02.000Z",
-    "dateEnd": "2026-01-31T03:37:41.000Z",
-    "dateLabel": "1/30/2026, 8:09:02 PM - 1/30/2026, 9:37:41 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260130-200902-b9wy",
-    "summary": {
-      "borderlandsPct": 1,
-      "mapSlices": [
-        {
-          "name": "Blue Borderlands",
-          "value": 18,
-          "color": "#3b82f6"
-        }
+      "dateStart": "2026-02-03T02:08:54.000Z",
+      "dateEnd": "2026-02-03T03:32:41.000Z",
+      "dateLabel": "2/2/2026, 8:08:54 PM - 2/2/2026, 9:32:41 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260202-200854-98d4",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 37,
+        "avgEnemySize": 43
+      }
+    },
+    {
+      "id": "20260201-190246-zs2p",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
       ],
-      "avgSquadSize": 48,
-      "avgEnemySize": 45
-    }
-  },
-  {
-    "id": "20260127-211432-9ix0",
-    "title": "Chocolate Teapot, Guardian Kamoidra",
-    "commanders": [
-      "Chocolate Teapot",
-      "Guardian Kamoidra"
-    ],
-    "dateStart": "2026-01-28T03:14:32.000Z",
-    "dateEnd": "2026-01-28T03:54:39.000Z",
-    "dateLabel": "1/27/2026, 9:14:32 PM - 1/27/2026, 9:54:39 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260127-211432-9ix0",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#a855f7"
-        }
+      "dateStart": "2026-02-02T01:02:46.000Z",
+      "dateEnd": "2026-02-02T02:58:23.000Z",
+      "dateLabel": "2/1/2026, 7:02:46 PM - 2/1/2026, 8:58:23 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260201-190246-zs2p",
+      "summary": {
+        "borderlandsPct": 0.3888888888888889,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 11,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 7,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 35
+      }
+    },
+    {
+      "id": "20260131-195119-7a15",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260127-211432-52z4",
-    "title": "Chocolate Teapot, Guardian Kamoidra",
-    "commanders": [
-      "Chocolate Teapot",
-      "Guardian Kamoidra"
-    ],
-    "dateStart": "2026-01-28T03:14:32.000Z",
-    "dateEnd": "2026-01-28T03:54:39.000Z",
-    "dateLabel": "1/27/2026, 9:14:32 PM - 1/27/2026, 9:54:39 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260127-211432-52z4",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#a855f7"
-        }
+      "dateStart": "2026-02-01T01:51:19.000Z",
+      "dateEnd": "2026-02-01T04:01:35.000Z",
+      "dateLabel": "1/31/2026, 7:51:19 PM - 1/31/2026, 10:01:35 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260131-195119-7a15",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 32,
+            "color": "#10b981"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 46
+      }
+    },
+    {
+      "id": "20260130-200902-b9wy",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 23
-    }
-  },
-  {
-    "id": "20260127-211432-1epx",
-    "title": "Chocolate Teapot, Guardian Kamoidra",
-    "commanders": [
-      "Chocolate Teapot",
-      "Guardian Kamoidra"
-    ],
-    "dateStart": "2026-01-28T03:14:32.000Z",
-    "dateEnd": "2026-01-28T03:54:39.000Z",
-    "dateLabel": "1/27/2026, 9:14:32 PM - 1/27/2026, 9:54:39 PM",
-    "url": "https://Fibbs23.github.io/Agg-Report/?report=20260127-211432-1epx",
-    "summary": {
-      "borderlandsPct": 0,
-      "mapSlices": [
-        {
-          "name": "Edge of the Mists",
-          "value": 13,
-          "color": "#a855f7"
-        }
+      "dateStart": "2026-01-31T02:09:02.000Z",
+      "dateEnd": "2026-01-31T03:37:41.000Z",
+      "dateLabel": "1/30/2026, 8:09:02 PM - 1/30/2026, 9:37:41 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260130-200902-b9wy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 18,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 45
+      }
+    },
+    {
+      "id": "20260127-211432-9ix0",
+      "title": "Chocolate Teapot, Guardian Kamoidra",
+      "commanders": [
+        "Chocolate Teapot",
+        "Guardian Kamoidra"
       ],
-      "avgSquadSize": 26,
-      "avgEnemySize": 23
+      "dateStart": "2026-01-28T03:14:32.000Z",
+      "dateEnd": "2026-01-28T03:54:39.000Z",
+      "dateLabel": "1/27/2026, 9:14:32 PM - 1/27/2026, 9:54:39 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260127-211432-9ix0",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#a855f7"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260127-211432-52z4",
+      "title": "Chocolate Teapot, Guardian Kamoidra",
+      "commanders": [
+        "Chocolate Teapot",
+        "Guardian Kamoidra"
+      ],
+      "dateStart": "2026-01-28T03:14:32.000Z",
+      "dateEnd": "2026-01-28T03:54:39.000Z",
+      "dateLabel": "1/27/2026, 9:14:32 PM - 1/27/2026, 9:54:39 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260127-211432-52z4",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#a855f7"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 23
+      }
+    },
+    {
+      "id": "20260127-211432-1epx",
+      "title": "Chocolate Teapot, Guardian Kamoidra",
+      "commanders": [
+        "Chocolate Teapot",
+        "Guardian Kamoidra"
+      ],
+      "dateStart": "2026-01-28T03:14:32.000Z",
+      "dateEnd": "2026-01-28T03:54:39.000Z",
+      "dateLabel": "1/27/2026, 9:14:32 PM - 1/27/2026, 9:54:39 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260127-211432-1epx",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 13,
+            "color": "#a855f7"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 23
+      }
     }
-  }
-]
+  ]
+}
