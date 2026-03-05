@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260304-191328-td88",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "dateStart": "2026-03-05T01:13:28.000Z",
+      "dateEnd": "2026-03-05T02:39:11.000Z",
+      "dateLabel": "3/4/2026, 7:13:28 PM - 3/4/2026, 8:39:11 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260304-191328-td88",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 12,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 2,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 38
+      }
+    },
+    {
       "id": "20260303-200432-jo08",
       "title": "Gear Check For Bads",
       "commanders": [
