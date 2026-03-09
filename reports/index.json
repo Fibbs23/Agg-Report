@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260308-191114-ia67",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-03-09T01:11:14.000Z",
+      "dateEnd": "2026-03-09T02:02:51.000Z",
+      "dateLabel": "3/8/2026, 7:11:14 PM - 3/8/2026, 8:02:51 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260308-191114-ia67",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 5,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260305-200435-rtpl",
       "title": "Gear Check For Bads",
       "commanders": [
