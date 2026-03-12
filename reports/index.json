@@ -6,6 +6,30 @@
   },
   "entries": [
     {
+      "id": "20260311-180433-3bct",
+      "title": "Fíbbs, Tilted Illusion",
+      "commanders": [
+        "Fíbbs",
+        "Tilted Illusion"
+      ],
+      "dateStart": "2026-03-12T00:04:33.000Z",
+      "dateEnd": "2026-03-12T01:58:48.000Z",
+      "dateLabel": "3/11/2026, 6:04:33 PM - 3/11/2026, 7:58:48 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260311-180433-3bct",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 20,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260310-190605-2lc6",
       "title": "Gear Check For Bads",
       "commanders": [
