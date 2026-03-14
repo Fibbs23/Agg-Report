@@ -6,6 +6,29 @@
   },
   "entries": [
     {
+      "id": "20260313-200942-ky65",
+      "title": "Hârâshô",
+      "commanders": [
+        "Hârâshô"
+      ],
+      "dateStart": "2026-03-14T02:09:42.000Z",
+      "dateEnd": "2026-03-14T03:51:04.000Z",
+      "dateLabel": "3/13/2026, 8:09:42 PM - 3/13/2026, 9:51:04 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260313-200942-ky65",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 11,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 49,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260312-201609-3930",
       "title": "Gear Check For Bads",
       "commanders": [
