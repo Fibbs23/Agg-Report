@@ -6,6 +6,34 @@
   },
   "entries": [
     {
+      "id": "20260324-190151-seg5",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-03-25T01:01:51.000Z",
+      "dateEnd": "2026-03-25T03:09:30.000Z",
+      "dateLabel": "3/24/2026, 7:01:51 PM - 3/24/2026, 9:09:30 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260324-190151-seg5",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 31,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260323-190022-5dg5",
       "title": "Guardian Kamoidra",
       "commanders": [
