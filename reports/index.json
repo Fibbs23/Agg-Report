@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260327-201122-4neo",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "dateStart": "2026-03-28T02:11:22.000Z",
+      "dateEnd": "2026-03-28T03:53:56.000Z",
+      "dateLabel": "3/27/2026, 8:11:22 PM - 3/27/2026, 9:53:56 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260327-201122-4neo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 18,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 50,
+        "avgEnemySize": 55
+      }
+    },
+    {
       "id": "20260325-180648-jwi6",
       "title": "Fíbbs",
       "commanders": [
