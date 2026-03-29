@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260328-190055-bdfs",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-03-29T01:00:55.000Z",
+      "dateEnd": "2026-03-29T02:08:26.000Z",
+      "dateLabel": "3/28/2026, 7:00:55 PM - 3/28/2026, 8:08:26 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260328-190055-bdfs",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 16,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 42
+      }
+    },
+    {
       "id": "20260328-185806-jl8u",
       "title": "Dub Grumble",
       "commanders": [
