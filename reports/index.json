@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260329-181056-ev23",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-03-30T00:10:56.000Z",
+      "dateEnd": "2026-03-30T01:51:34.000Z",
+      "dateLabel": "3/29/2026, 6:10:56 PM - 3/29/2026, 7:51:34 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260329-181056-ev23",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 52
+      }
+    },
+    {
       "id": "20260328-190055-bdfs",
       "title": "Dub Grumble",
       "commanders": [
