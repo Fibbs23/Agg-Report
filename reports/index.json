@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260403-201516-7ka1",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "dateStart": "2026-04-04T02:15:16.000Z",
+      "dateEnd": "2026-04-04T03:58:33.000Z",
+      "dateLabel": "4/3/2026, 8:15:16 PM - 4/3/2026, 9:58:33 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260403-201516-7ka1",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 60
+      }
+    },
+    {
       "id": "20260401-181110-kos8",
       "title": "Reven The Big Show",
       "commanders": [
