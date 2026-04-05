@@ -1,7 +1,35 @@
 {
-  "colorPalette": "electric-blue",
+  "colorPalette": "gold-bronze",
   "glassSurfaces": false,
   "entries": [
+    {
+      "id": "20260404-185513-2pyg",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-04-05T00:55:13.000Z",
+      "dateEnd": "2026-04-05T02:28:09.000Z",
+      "dateLabel": "4/4/2026, 6:55:13 PM - 4/4/2026, 8:28:09 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260404-185513-2pyg",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 14,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 44
+      }
+    },
     {
       "id": "20260403-201516-7ka1",
       "title": "Charrmander Harasho",
