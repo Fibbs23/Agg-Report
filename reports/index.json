@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260407-180416-ld5k",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-04-08T00:04:16.000Z",
+      "dateEnd": "2026-04-08T01:22:48.000Z",
+      "dateLabel": "4/7/2026, 6:04:16 PM - 4/7/2026, 7:22:48 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260407-180416-ld5k",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 17,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260405-180228-fknw",
       "title": "Lightspeed Jack",
       "commanders": [
