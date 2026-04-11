@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260410-201120-v5hy",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "dateStart": "2026-04-11T02:11:20.000Z",
+      "dateEnd": "2026-04-11T03:13:37.000Z",
+      "dateLabel": "4/10/2026, 8:11:20 PM - 4/10/2026, 9:13:37 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260410-201120-v5hy",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 22,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260408-181406-5dm0",
       "title": "Press Your Buttonz",
       "commanders": [
