@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260411-185836-61ke",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-04-12T00:58:36.000Z",
+      "dateEnd": "2026-04-12T01:50:58.000Z",
+      "dateLabel": "4/11/2026, 6:58:36 PM - 4/11/2026, 7:50:58 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260411-185836-61ke",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 36,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 39,
+        "avgEnemySize": 45
+      }
+    },
+    {
       "id": "20260410-201120-v5hy",
       "title": "Reven The Big Show",
       "commanders": [
