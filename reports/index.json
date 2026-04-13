@@ -3,6 +3,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260412-190029-yhqp",
+      "title": "Gear Check For Bads",
+      "commanders": [
+        "Gear Check For Bads"
+      ],
+      "dateStart": "2026-04-13T01:00:29.000Z",
+      "dateEnd": "2026-04-13T02:21:59.000Z",
+      "dateLabel": "4/12/2026, 7:00:29 PM - 4/12/2026, 8:21:59 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260412-190029-yhqp",
+      "summary": {
+        "borderlandsPct": 0.3157894736842105,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 6,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 59
+      }
+    },
+    {
       "id": "20260411-185836-61ke",
       "title": "Dub Grumble",
       "commanders": [
