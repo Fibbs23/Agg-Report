@@ -3,6 +3,29 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260424-201034-s9ex",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "dateStart": "2026-04-25T02:10:34.000Z",
+      "dateEnd": "2026-04-25T03:34:39.000Z",
+      "dateLabel": "4/24/2026, 8:10:34 PM - 4/24/2026, 9:34:39 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260424-201034-s9ex",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 13,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 47,
+        "avgEnemySize": 31
+      }
+    },
+    {
       "id": "20260422-191226-mftv",
       "title": "Tilted Illusion",
       "commanders": [
