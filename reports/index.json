@@ -3,6 +3,39 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260425-184913-6kk8",
+      "title": "Dub Grumble",
+      "commanders": [
+        "Dub Grumble"
+      ],
+      "dateStart": "2026-04-26T00:49:13.000Z",
+      "dateEnd": "2026-04-26T01:59:20.000Z",
+      "dateLabel": "4/25/2026, 6:49:13 PM - 4/25/2026, 7:59:20 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260425-184913-6kk8",
+      "summary": {
+        "borderlandsPct": 0.75,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 6,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 32,
+        "avgEnemySize": 54
+      }
+    },
+    {
       "id": "20260424-201034-s9ex",
       "title": "Fíbbs",
       "commanders": [
