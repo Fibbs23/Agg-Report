@@ -1,7 +1,31 @@
 {
   "colorPalette": "gold-bronze",
   "glassSurfaces": false,
+  "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260520-193802-6o3u",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "dateStart": "2026-05-21T01:38:02.000Z",
+      "dateEnd": "2026-05-21T02:06:28.000Z",
+      "dateLabel": "5/20/2026, 7:38:02 PM - 5/20/2026, 8:06:28 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260520-193802-6o3u",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 9,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 47
+      }
+    },
     {
       "id": "20260502-185149-n05a",
       "title": "Dub Grumble",
