@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260607-221344-ugdr",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-06-08T04:13:44.000Z",
+      "dateEnd": "2026-06-08T05:02:09.000Z",
+      "dateLabel": "6/7/2026, 10:13:44 PM - 6/7/2026, 11:02:09 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260607-221344-ugdr",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 56,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260523-185219-4qaa",
       "title": "Dub Grumble",
       "commanders": [
