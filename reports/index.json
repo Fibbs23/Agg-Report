@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260614-180210-uwbi",
+      "title": "Lightspeed Jack",
+      "commanders": [
+        "Lightspeed Jack"
+      ],
+      "dateStart": "2026-06-15T00:02:10.000Z",
+      "dateEnd": "2026-06-15T01:11:29.000Z",
+      "dateLabel": "6/14/2026, 6:02:10 PM - 6/14/2026, 7:11:29 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260614-180210-uwbi",
+      "summary": {
+        "borderlandsPct": 0.5675675675675675,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 11,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 10,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260612-205022-aus4",
       "title": "Hârâshô",
       "commanders": [
