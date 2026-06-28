@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260627-190522-t2i2",
+      "title": "Mesmer Kamoidra",
+      "commanders": [
+        "Mesmer Kamoidra"
+      ],
+      "dateStart": "2026-06-28T01:05:22.000Z",
+      "dateEnd": "2026-06-28T01:45:18.000Z",
+      "dateLabel": "6/27/2026, 7:05:22 PM - 6/27/2026, 7:45:18 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260627-190522-t2i2",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 32,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260626-200901-3qvj",
       "title": "Reven The Big Show",
       "commanders": [
