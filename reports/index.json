@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260703-201301-wp83",
+      "title": "Charrmander Harasho",
+      "commanders": [
+        "Charrmander Harasho"
+      ],
+      "dateStart": "2026-07-04T02:13:01.000Z",
+      "dateEnd": "2026-07-04T03:04:01.000Z",
+      "dateLabel": "7/3/2026, 8:13:01 PM - 7/3/2026, 9:04:01 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260703-201301-wp83",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 25,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 46,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260627-190522-t2i2",
       "title": "Mesmer Kamoidra",
       "commanders": [
