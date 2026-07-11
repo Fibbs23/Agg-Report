@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260710-201413-36yx",
+      "title": "Hârâshô",
+      "commanders": [
+        "Hârâshô"
+      ],
+      "dateStart": "2026-07-11T02:14:13.000Z",
+      "dateEnd": "2026-07-11T03:17:12.000Z",
+      "dateLabel": "7/10/2026, 8:14:13 PM - 7/10/2026, 9:17:12 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260710-201413-36yx",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 19,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 4,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 40,
+        "avgEnemySize": 51
+      }
+    },
+    {
       "id": "20260705-181130-8qm8",
       "title": "Lightspeed Jack",
       "commanders": [
