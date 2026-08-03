@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260802-204920-58nr",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "dateStart": "2026-08-03T02:49:20.000Z",
+      "dateEnd": "2026-08-03T03:57:03.000Z",
+      "dateLabel": "8/2/2026, 8:49:20 PM - 8/2/2026, 9:57:03 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260802-204920-58nr",
+      "summary": {
+        "borderlandsPct": 0.08695652173913043,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 21,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 2,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 57
+      }
+    },
+    {
       "id": "20260718-190353-6a4h",
       "title": "Dub Grumble, Not Haro",
       "commanders": [
