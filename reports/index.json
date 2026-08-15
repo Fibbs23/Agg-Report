@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-085025-3eg6",
+      "title": "Undie Vided",
+      "commanders": [
+        "Undie Vided"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-15T14:50:25.000Z",
+      "dateEnd": "2026-08-15T15:37:30.000Z",
+      "dateLabel": "8/15/2026, 8:50:25 AM - 8/15/2026, 9:37:30 AM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260815-085025-3eg6",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 33,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 9,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260813-190028-48ai",
       "title": "Mesmer Kamoidra",
       "commanders": [
