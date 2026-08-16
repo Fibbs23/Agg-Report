@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260816-073446-cfz7",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-08-16T13:34:46.000Z",
+      "dateEnd": "2026-08-16T14:29:03.000Z",
+      "dateLabel": "8/16/2026, 7:34:46 AM - 8/16/2026, 8:29:03 AM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260816-073446-cfz7",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 48,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260815-085025-3eg6",
       "title": "Undie Vided",
       "commanders": [
