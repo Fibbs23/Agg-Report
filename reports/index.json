@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260822-114758-7r4p",
+      "title": "Tilted Illusion",
+      "commanders": [
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-08-22T17:47:58.000Z",
+      "dateEnd": "2026-08-22T18:57:03.411Z",
+      "dateLabel": "8/22/2026, 11:47:58 AM - 8/22/2026, 12:57:03 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260822-114758-7r4p",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 47
+      }
+    },
+    {
       "id": "20260821-205058-414p",
       "title": "Hârâshô",
       "commanders": [
