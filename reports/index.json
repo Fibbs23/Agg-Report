@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260823-070508-f1ku",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-08-23T13:05:08.000Z",
+      "dateEnd": "2026-08-23T14:26:49.494Z",
+      "dateLabel": "8/23/2026, 7:05:08 AM - 8/23/2026, 8:26:49 AM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260823-070508-f1ku",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 9,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 41
+      }
+    },
+    {
       "id": "20260822-114758-7r4p",
       "title": "Tilted Illusion",
       "commanders": [
