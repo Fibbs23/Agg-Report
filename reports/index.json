@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260904-200725-d8v3",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-09-05T02:07:25.000Z",
+      "dateEnd": "2026-09-05T03:31:15.005Z",
+      "dateLabel": "9/4/2026, 8:07:25 PM - 9/4/2026, 9:31:15 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260904-200725-d8v3",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 16,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260823-175559-wjn9",
       "title": "Lightspeed Jack",
       "commanders": [
