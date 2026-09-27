@@ -5,6 +5,34 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260927-071406-rfuf",
+      "title": "The Bloöp",
+      "commanders": [
+        "The Bloöp"
+      ],
+      "guild": {
+        "id": "FE69A624-2F37-F111-BB22-12396678E461",
+        "name": "Kopi Siew",
+        "tag": "DIE"
+      },
+      "dateStart": "2026-09-27T13:14:06.000Z",
+      "dateEnd": "2026-09-27T14:19:46.064Z",
+      "dateLabel": "9/27/2026, 7:14:06 AM - 9/27/2026, 8:19:46 AM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260927-071406-rfuf",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 16,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 25,
+        "avgEnemySize": 39
+      }
+    },
+    {
       "id": "20260924-192448-ynet",
       "title": "Mesmer Kamoidra",
       "commanders": [
