@@ -5,6 +5,39 @@
   "axiDesign": false,
   "entries": [
     {
+      "id": "20260928-190346-7923",
+      "title": "Not Haro",
+      "commanders": [
+        "Not Haro"
+      ],
+      "guild": {
+        "id": "EA176DD1-F15B-ED11-81A9-8FB5CFBE7766",
+        "name": "Engaging Without Warning",
+        "tag": "EWW"
+      },
+      "dateStart": "2026-09-29T01:03:46.000Z",
+      "dateEnd": "2026-09-29T02:19:04.337Z",
+      "dateLabel": "9/28/2026, 7:03:46 PM - 9/28/2026, 8:19:04 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20260928-190346-7923",
+      "summary": {
+        "borderlandsPct": 0.7142857142857143,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 10,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20260927-071406-rfuf",
       "title": "The Bloöp",
       "commanders": [
