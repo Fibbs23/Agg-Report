@@ -1,9 +1,42 @@
 {
   "colorPalette": "rose-pink",
+  "axiTheme": "default",
+  "glass": false,
   "glassSurfaces": false,
-  "glassmorphic": false,
-  "axiDesign": false,
   "entries": [
+    {
+      "id": "20261002-201141-6f8h",
+      "title": "Reven The Big Show",
+      "commanders": [
+        "Reven The Big Show"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-03T02:11:41.000Z",
+      "dateEnd": "2026-10-03T02:58:25.224Z",
+      "dateLabel": "10/2/2026, 8:11:41 PM - 10/2/2026, 8:58:25 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20261002-201141-6f8h",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 21,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 6,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 44,
+        "avgEnemySize": 56
+      }
+    },
     {
       "id": "20261001-184720-utvw",
       "title": "Psychoscythe",
