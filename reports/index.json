@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-180914-q26c",
+      "title": "Fíbbs",
+      "commanders": [
+        "Fíbbs"
+      ],
+      "guild": {
+        "id": "ECA67DFD-F97A-EF11-81A9-8FB5CFBE7766",
+        "name": "Learning The Hard Way",
+        "tag": "FAFO"
+      },
+      "dateStart": "2026-10-05T00:09:14.000Z",
+      "dateEnd": "2026-10-05T00:45:56.878Z",
+      "dateLabel": "10/4/2026, 6:09:14 PM - 10/4/2026, 6:45:56 PM",
+      "url": "https://Fibbs23.github.io/Agg-Report/?report=20261004-180914-q26c",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 13,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 34,
+        "avgEnemySize": 35
+      }
+    },
+    {
       "id": "20261002-201141-6f8h",
       "title": "Reven The Big Show",
       "commanders": [
