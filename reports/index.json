@@ -3,7 +3,51 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.3"
+  },
   "entries": [
+    {
+      "id": "20261010-211018-lyod",
+      "title": "Fíbbs, Tilted Illusion",
+      "commanders": [
+        "Fíbbs",
+        "Tilted Illusion"
+      ],
+      "guild": {
+        "id": "85E54E50-1DEF-EF11-81AC-95DFE50946EB",
+        "name": "Imma Fuggin",
+        "tag": "Noob"
+      },
+      "dateStart": "2026-10-11T03:10:18.000Z",
+      "dateEnd": "2026-10-11T04:21:01.173Z",
+      "dateLabel": "10/10/2026, 9:10:18 PM - 10/10/2026, 10:21:01 PM",
+      "url": "https://fibbs23.github.io/Agg-Report/?report=20261010-211018-lyod",
+      "publishedBy": "Fibbs23",
+      "summary": {
+        "borderlandsPct": 0.09523809523809523,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 19,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 1,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 48
+      }
+    },
     {
       "id": "20261004-180914-q26c",
       "title": "Fíbbs",
