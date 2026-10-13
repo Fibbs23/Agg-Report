@@ -5,9 +5,38 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.3"
+    "version": "3.22.6"
   },
   "entries": [
+    {
+      "id": "20261012-190249-k8zk",
+      "title": "Paralda",
+      "commanders": [
+        "Paralda"
+      ],
+      "guild": {
+        "id": "5DE91D07-EED0-4835-8CD8-B77A3EA3CB1D",
+        "name": "Pyromancers",
+        "tag": "PYRO"
+      },
+      "dateStart": "2026-10-13T01:02:49.000Z",
+      "dateEnd": "2026-10-13T01:56:02.995Z",
+      "dateLabel": "10/12/2026, 7:02:49 PM - 10/12/2026, 7:56:02 PM",
+      "url": "https://fibbs23.github.io/Agg-Report/?report=20261012-190249-k8zk",
+      "publishedBy": "Fibbs23",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 17,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 46
+      }
+    },
     {
       "id": "20261010-211018-lyod",
       "title": "Fíbbs, Tilted Illusion",
